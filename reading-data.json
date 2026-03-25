@@ -1,13 +1,37 @@
 [
   {
-    "author": "Sam Jones",
-    "work": "Spanish woman emerges after spending 500 days living alone in cave (The Guardian UK)",
+    "author": "Anne Carson",
+    "work": "Missing Sheep (The New Yorker)",
+    "date": "2026-03-25",
+    "duration": 15
+  },
+  {
+    "author": "Michael Levenson",
+    "work": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump (New York Times, 3/25/2026)",
+    "date": "2026-03-25",
+    "duration": 15
+  },
+  {
+    "author": "Cecilia Kang, Ryan Mac, and Eli Tan",
+    "work": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case (New York Times, 3/25/2026)",
+    "date": "2026-03-25",
+    "duration": 15
+  },
+  {
+    "author": "Lynne Weintraub",
+    "work": "\"Older Beginners: Library tailors ESL programs to seniors\" (American Libraries, June 2023)",
     "date": "2026-03-23",
     "duration": 15
   },
   {
     "author": "Allison Field Bell",
     "work": "\"The Word Disorder\"",
+    "date": "2026-03-23",
+    "duration": 15
+  },
+  {
+    "author": "Sam Jones",
+    "work": "Spanish woman emerges after spending 500 days living alone in cave (The Guardian UK)",
     "date": "2026-03-23",
     "duration": 15
   },
@@ -20,12 +44,6 @@
   {
     "author": "Peter Dobrin",
     "work": "\"The Philadelphia Orchestra's Yannick Nézet-Séguin is Florence Price's biggest fan. Critics are calling the work he led in Vienna a 'forgery.'\" (Philadelphia Inquirer, Mar. 21, 2026)",
-    "date": "2026-03-23",
-    "duration": 15
-  },
-  {
-    "author": "Lynne Weintraub",
-    "work": "\"Older Beginners: Library tailors ESL programs to seniors\" (American Libraries, June 2023)",
     "date": "2026-03-23",
     "duration": 15
   }
